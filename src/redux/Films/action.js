@@ -1,0 +1,5 @@
+export const types = {
+    ADD_FILMS: "ADD_FILMS",
+    ADD_FILMS_NEXT_PAGE: "ADD_FILMS_NEXT_PAGE",
+    SEARCH_FILMS_ITEM: "SEARCH_FILMS_ITEM"
+}

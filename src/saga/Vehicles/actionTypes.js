@@ -1,0 +1,5 @@
+export const types = {
+    SET_VEHICLES: "SET_VEHICLES",
+    LOAD_MORE_VEHICLES: "LOAD_MORE_VEHICLES"
+
+}
